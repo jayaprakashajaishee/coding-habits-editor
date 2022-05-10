@@ -1,13 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import ChEditor from "./ChEditor";
-import boilerplate from "./components/boilerplate/boilerplate";
+import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-        <ChEditor type="html" defaultContent={boilerplate}/>
+        <App />
   </React.StrictMode>
 );
 
