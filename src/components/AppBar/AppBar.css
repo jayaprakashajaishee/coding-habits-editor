@@ -1,0 +1,10 @@
+.appBar {
+    background-color: #323330;
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+}
+
+#logo {
+    padding: 1%;
+}

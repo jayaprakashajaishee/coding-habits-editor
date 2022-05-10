@@ -1,0 +1,6 @@
+export const CHANGE_THEME = "CHANGE_THEME";
+export const CHANGE_AUTO_RUN = "CHANGE_AUTO_RUN";
+export const CHANGE_EDITOR_VALUE = "CHANGE_EDITOR_VALUE";
+export const CHANGE_EDITOR_VALUE_TEMP = "CHANGE_EDITOR_VALUE_TEMP";
+export const ON_RUN = "ON_RUN";
+export const ON_RESET = "ON_RESET";
